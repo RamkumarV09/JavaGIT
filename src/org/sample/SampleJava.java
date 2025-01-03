@@ -27,5 +27,16 @@ public class SampleJava {
 	private void meth5() {
 		System.out.println("Meth 5");
 
+
 	}
+
+	private void meth7() {
+		System.out.println("Meth 7");
+
+	}
+	
+	private void meth8() {
+		System.out.println("Meth 8");
+
+	
 }
