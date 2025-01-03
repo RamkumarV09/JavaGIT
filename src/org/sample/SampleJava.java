@@ -18,4 +18,14 @@ public class SampleJava {
 		System.out.println("Meth 3");
 
 	}
+	
+	private void meth4() {
+		System.out.println("Meth 4");
+
+	}
+	
+	private void meth5() {
+		System.out.println("Meth 5");
+
+	}
 }
